@@ -2,7 +2,7 @@
 
 Javascript Robot Operating System
 
- - This project is in brainstorm stage -
+ \- This project is in brainstorm stage \-
 
 # Goals
 
